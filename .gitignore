@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.pytest_cache/
+.ipynb_checkpoints/
+data/raw/**/*.csv
+data/raw/**/*.arff
+data/raw/**/*.xlsx
+models/*.joblib
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.vscode/
+.DS_Store
+Thumbs.db

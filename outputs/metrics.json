@@ -1,0 +1,41 @@
+{
+  "baseline_logistic_regression": {
+    "roc_auc": 0.7617,
+    "pr_auc": 0.2996,
+    "top_pct": 0.05,
+    "top_k": 50,
+    "precision_at_top": 0.36,
+    "recall_at_top": 0.2857,
+    "positives": 63,
+    "rows": 1000
+  },
+  "random_forest": {
+    "roc_auc": 0.738,
+    "pr_auc": 0.2368,
+    "top_pct": 0.05,
+    "top_k": 50,
+    "precision_at_top": 0.26,
+    "recall_at_top": 0.2063,
+    "positives": 63,
+    "rows": 1000
+  },
+  "train_rows": 3000,
+  "test_rows": 1000,
+  "positive_rate": 0.0635,
+  "features": [
+    "wc_ta",
+    "re_ta",
+    "ebit_ta",
+    "equity_tl",
+    "sales_ta",
+    "current_ratio",
+    "debt_ratio",
+    "roa",
+    "cfo_ta",
+    "d_roa",
+    "d_debt_ratio",
+    "d_current_ratio",
+    "sales_growth",
+    "asset_growth"
+  ]
+}

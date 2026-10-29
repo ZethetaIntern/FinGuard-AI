@@ -1,0 +1,51 @@
+company_id,company_name,sector,year,risk_probability,risk_rank,risk_percentile,in_top_queue,z_score,z_zone,m_score,m_flag,f_score,f_label,warning_count,warning_text
+SC00837,SC Company 0837,FMCG,2022,0.8992017881056222,1,1.0,True,0.5123656521266549,Distress,-2.6282431917731235,Unlikely,2,Weak,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00117,SC Company 0117,Textiles,2022,0.8144563117544197,2,0.999,True,0.5436237913355835,Distress,-2.4275155856928703,Unlikely,5,Moderate,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00429,SC Company 0429,Pharma,2022,0.782476644514648,3,0.998,True,0.8618936469879024,Distress,-2.3104113661943932,Unlikely,0,Weak,4,Low current ratio; Negative ROA; Negative cash flow; Z-score distress
+SC00303,SC Company 0303,Pharma,2022,0.7525917169651618,4,0.997,True,0.18115985967791348,Distress,-3.024793612677017,Unlikely,2,Weak,5,Low current ratio; Negative ROA; High leverage; Negative cash flow; Z-score distress
+SC00821,SC Company 0821,Pharma,2022,0.7441056603363325,5,0.996,True,1.2414961937661617,Distress,-2.8645738819230173,Unlikely,4,Moderate,4,Low current ratio; Negative ROA; Negative cash flow; Z-score distress
+SC00157,SC Company 0157,Infrastructure,2022,0.7141358508760886,6,0.995,True,0.8628646967586657,Distress,-2.5158661444195656,Unlikely,5,Moderate,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00606,SC Company 0606,Energy,2022,0.7121100422681018,7,0.994,True,1.2586102428672916,Distress,-2.547637639803467,Unlikely,3,Weak,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00112,SC Company 0112,Retail,2022,0.7052875181876153,8,0.993,True,0.9921618316265399,Distress,-2.436487711717791,Unlikely,3,Weak,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00784,SC Company 0784,Retail,2022,0.7050461515367841,9,0.992,True,1.0641633021932013,Distress,-2.612689879863095,Unlikely,3,Weak,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00216,SC Company 0216,Auto,2022,0.6960789090463994,10,0.991,True,1.609014920992737,Distress,-2.3661339621326585,Unlikely,2,Weak,4,Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00158,SC Company 0158,Infrastructure,2022,0.68503700953666,11,0.99,True,0.6436303029664533,Distress,-2.7208235101996854,Unlikely,5,Moderate,4,Low current ratio; Negative ROA; Sales decline; Z-score distress
+SC00436,SC Company 0436,Pharma,2022,0.6799820589813562,12,0.989,True,1.6396603234492706,Distress,-2.4873467108396143,Unlikely,3,Weak,4,Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00898,SC Company 0898,Textiles,2022,0.6778319988199466,13,0.988,True,0.44360910234890605,Distress,-2.4716180661188085,Unlikely,5,Moderate,4,Low current ratio; Negative ROA; Negative cash flow; Z-score distress
+SC00356,SC Company 0356,FMCG,2022,0.6753542736956268,14,0.987,True,1.308839986944688,Distress,-2.4016600791059175,Unlikely,4,Moderate,4,Low current ratio; Negative ROA; Negative cash flow; Z-score distress
+SC00614,SC Company 0614,Textiles,2022,0.6749773284723706,15,0.986,True,1.083975130979311,Distress,-2.8667323023385713,Unlikely,5,Moderate,3,Low current ratio; Negative ROA; Z-score distress
+SC00727,SC Company 0727,Auto,2022,0.6743808432299975,16,0.985,True,1.2962452298245961,Distress,-2.3733091409788316,Unlikely,3,Weak,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00769,SC Company 0769,IT,2022,0.6741610933573822,17,0.984,True,1.0229505815947117,Distress,-2.6605335101335315,Unlikely,3,Weak,4,Low current ratio; Negative ROA; Negative cash flow; Z-score distress
+SC00324,SC Company 0324,Energy,2022,0.6689693352193558,18,0.983,True,1.0805145517633188,Distress,-2.558355574103283,Unlikely,3,Weak,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00090,SC Company 0090,Retail,2022,0.6637344546644337,19,0.982,True,0.7537836983276267,Distress,-2.569746558802064,Unlikely,5,Moderate,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00619,SC Company 0619,Auto,2022,0.6599466767580072,20,0.981,True,1.3582386936697013,Distress,-2.6829465478718086,Unlikely,2,Weak,4,Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00998,SC Company 0998,Pharma,2022,0.6567443111558596,21,0.98,True,0.8279429096835365,Distress,-2.369357730340844,Unlikely,3,Weak,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00075,SC Company 0075,Textiles,2022,0.6547471438417575,22,0.979,True,1.4039709925356054,Distress,-2.644921135825938,Unlikely,5,Moderate,4,Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00074,SC Company 0074,IT,2022,0.6475317620132046,23,0.978,True,1.399347629142156,Distress,-2.7390951953010805,Unlikely,7,Strong,2,Low current ratio; Z-score distress
+SC00397,SC Company 0397,FMCG,2022,0.645688940078422,24,0.977,True,1.5883540098498263,Distress,-2.307273324789267,Unlikely,4,Moderate,4,Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00625,SC Company 0625,Retail,2022,0.6452381480853951,25,0.976,True,1.477638845106713,Distress,-2.566026634389028,Unlikely,3,Weak,4,Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00615,SC Company 0615,Pharma,2022,0.6446921861589865,26,0.975,True,1.7016085253613698,Distress,-2.5677820347105,Unlikely,4,Moderate,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00010,SC Company 0010,Textiles,2022,0.6417834652454022,27,0.974,True,1.3318309230761076,Distress,-2.5278586550286937,Unlikely,2,Weak,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00312,SC Company 0312,Textiles,2022,0.6345614626433426,28,0.973,True,1.635257653747979,Distress,-2.6532501579342087,Unlikely,6,Moderate,4,Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00089,SC Company 0089,Auto,2022,0.6314520919671671,29,0.972,True,0.7863574096076124,Distress,-2.597953283612762,Unlikely,3,Weak,4,Low current ratio; Negative ROA; Negative cash flow; Z-score distress
+SC00940,SC Company 0940,Textiles,2022,0.6248517339883919,30,0.971,True,1.707399144551378,Distress,-2.79718173258884,Unlikely,4,Moderate,3,Negative ROA; Sales decline; Z-score distress
+SC00231,SC Company 0231,Energy,2022,0.6157350923441707,31,0.97,True,1.1553623359500294,Distress,-2.8405946410498535,Unlikely,6,Moderate,3,Low current ratio; Negative ROA; Z-score distress
+SC00643,SC Company 0643,IT,2022,0.6138333014125398,32,0.969,True,0.5744231569384525,Distress,-2.37049112980064,Unlikely,4,Moderate,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00094,SC Company 0094,Energy,2022,0.6101035839852251,33,0.968,True,1.1278724031970493,Distress,-2.4358299966608294,Unlikely,2,Weak,4,Low current ratio; Negative ROA; Negative cash flow; Z-score distress
+SC00872,SC Company 0872,Energy,2022,0.6038544984122648,34,0.967,True,0.6505955690153236,Distress,-2.650302139540162,Unlikely,3,Weak,4,Low current ratio; Negative ROA; Negative cash flow; Z-score distress
+SC00030,SC Company 0030,Auto,2022,0.603765708814125,35,0.966,True,1.8465114768481363,Grey,-2.4169347454759533,Unlikely,4,Moderate,1,Low current ratio
+SC00358,SC Company 0358,IT,2022,0.6004663976836229,36,0.965,True,0.6631023336595753,Distress,-2.353945938262883,Unlikely,3,Weak,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00378,SC Company 0378,Energy,2022,0.5991541143319935,37,0.964,True,1.299505083228637,Distress,-2.4136723323158797,Unlikely,2,Weak,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00390,SC Company 0390,Auto,2022,0.5962736838691217,38,0.963,True,0.9502644567693469,Distress,-2.4627625432617073,Unlikely,3,Weak,3,Negative ROA; Negative cash flow; Z-score distress
+SC00890,SC Company 0890,Pharma,2022,0.5952382346732643,39,0.962,True,1.2628052920877302,Distress,-2.5298790255327894,Unlikely,6,Moderate,4,Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00310,SC Company 0310,Pharma,2022,0.5945419874503308,40,0.961,True,1.654979157798703,Distress,-2.9289099670702132,Unlikely,7,Strong,1,Z-score distress
+SC00896,SC Company 0896,Infrastructure,2022,0.5929961136494519,41,0.96,True,1.1382690932908759,Distress,-2.597554924198776,Unlikely,4,Moderate,4,Low current ratio; Negative ROA; Sales decline; Z-score distress
+SC00583,SC Company 0583,Textiles,2022,0.5871042230702842,42,0.959,True,1.895746398243309,Grey,-2.7806558222923585,Unlikely,4,Moderate,2,Low current ratio; Negative ROA
+SC00539,SC Company 0539,IT,2022,0.5853905977138077,43,0.958,True,1.2808221405987035,Distress,-2.5740233546972124,Unlikely,3,Weak,3,Negative ROA; Sales decline; Z-score distress
+SC00247,SC Company 0247,FMCG,2022,0.5841710003316568,44,0.957,True,1.339382153866231,Distress,-2.58159886306741,Unlikely,4,Moderate,3,Negative ROA; Sales decline; Z-score distress
+SC00529,SC Company 0529,Textiles,2022,0.5840892606361994,45,0.956,True,1.8326346124127524,Grey,-2.605801109169688,Unlikely,5,Moderate,1,Negative ROA
+SC00758,SC Company 0758,Infrastructure,2022,0.5838147008652289,46,0.955,True,0.9051342836522714,Distress,-2.7484600415574363,Unlikely,4,Moderate,4,Low current ratio; Negative ROA; Negative cash flow; Z-score distress
+SC00724,SC Company 0724,Infrastructure,2022,0.5829720792103553,47,0.954,True,1.4034834033450792,Distress,-2.470525575602555,Unlikely,4,Moderate,3,Low current ratio; Negative ROA; Z-score distress
+SC00716,SC Company 0716,Infrastructure,2022,0.58253590491686,48,0.953,True,1.9665643090068539,Grey,-2.328480690834561,Unlikely,4,Moderate,2,Negative ROA; Sales decline
+SC00454,SC Company 0454,Pharma,2022,0.5794413593132621,49,0.952,True,1.5658549027335695,Distress,-2.4387067392375017,Unlikely,4,Moderate,5,Low current ratio; Negative ROA; Negative cash flow; Sales decline; Z-score distress
+SC00246,SC Company 0246,Retail,2022,0.5770315446640297,50,0.951,True,1.7175446854731655,Distress,-2.6473243843031247,Unlikely,6,Moderate,1,Z-score distress

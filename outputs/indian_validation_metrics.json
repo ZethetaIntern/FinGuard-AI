@@ -1,0 +1,23 @@
+{
+  "model": {
+    "roc_auc": 0.7605,
+    "pr_auc": 0.212,
+    "top_pct": 0.05,
+    "top_k": 40,
+    "precision_at_top": 0.3,
+    "recall_at_top": 0.24,
+    "positives": 50,
+    "rows": 800
+  },
+  "altman_zscore_only": {
+    "roc_auc": 0.7643,
+    "pr_auc": 0.198,
+    "top_pct": 0.05,
+    "top_k": 40,
+    "precision_at_top": 0.2,
+    "recall_at_top": 0.16,
+    "positives": 50,
+    "rows": 800
+  },
+  "note": "Synthetic stand-in for historical Indian companies; replace with real data."
+}
